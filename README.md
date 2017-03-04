@@ -1,7 +1,7 @@
 ## Description
 **Pacman** is remake of the Pacman game using Java Gui.
 
-## Technology
+## Technology Used
 ### Java Language
 
 ## Screen Shots
